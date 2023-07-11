@@ -1,0 +1,19 @@
+{
+   "cache_folder" : "cache",
+   "depth" : 0,
+   "has_pano" : false,
+   "has_traj" : false,
+   "maxIntensity" : 2047,
+   "maxdepth" : 3,
+   "maxx" : 533398.53000000003,
+   "maxy" : 3227375.2600000002,
+   "maxz" : 379,
+   "minIntensity" : 96,
+   "minx" : 532347.30000000005,
+   "miny" : 3226447.2000000002,
+   "minz" : -62.160000000000004,
+   "pointFormat" : 7,
+   "statisticalMaxz" : 157.87,
+   "statisticalMinz" : 136.83000000000001,
+   "wholePointNum" : 12003362
+}

@@ -1,0 +1,11 @@
+*.bak
+
+#ignore .idea folder
+.idea/
+.name
+deployment.xml
+misc.xml
+modules.xml
+*.iml
+vcs.xml
+workspace.xml

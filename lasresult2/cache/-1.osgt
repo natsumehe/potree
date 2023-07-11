@@ -1,0 +1,3845 @@
+#Ascii Scene 
+#Version 130 
+#Generator OpenSceneGraph 3.4.0 
+
+osg::MatrixTransform {
+  UniqueID 1 
+  Name "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache\\-1.osgb" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+      UniqueID 2 
+      UDC_UserData {
+osg::Vec3dValueObject {
+          UniqueID 3 
+          Name "0" 
+Value 532872 3.22691e+006 158 
+}
+      }
+}
+  }
+Children 1 {
+osg::Group {
+      UniqueID 4 
+      Name "group-0" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+          UniqueID 5 
+          UDC_UserData {
+osg::IntValueObject {
+              UniqueID 6 
+              Name "0" 
+Value 12003362 
+}
+          }
+UDC_UserObjects 2 {
+osg::Vec3dValueObject {
+              UniqueID 7 
+              Name "0" 
+Value 532347 3.22645e+006 -62.16 
+}
+            osg::Vec3dValueObject {
+              UniqueID 8 
+              Name "1" 
+Value 533399 3.22738e+006 379 
+}
+          }
+}
+      }
+Children 9 {
+osg::PagedLOD {
+          UniqueID 9 
+          Name "lodgeode-0" 
+CenterMode USER_DEFINED_CENTER 
+UserCenter 0.875 0.25 0.419998 734.983 
+RangeList 1 {
+734.983 3.40282e+038 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"0.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+        osg::Group {
+          UniqueID 10 
+          Name "group-00" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 11 
+              Name "lodgeode-00" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 12 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 13 
+                      Name "0" 
+Value 532407 3.22646e+006 10.41 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 14 
+                      Name "1" 
+Value 532873 3.22691e+006 158.42 
+}
+                    osg::IntValueObject {
+                      UniqueID 15 
+                      Name "0" 
+Value 298742 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -231.938 -225.75 -73.585 332.842 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"00.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 16 
+              Name "group-000" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 17 
+                  Name "leafgeode-000" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 18 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 19 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 20 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 21 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"000.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 22 
+              Name "group-001" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 23 
+                  Name "leafgeode-001" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 24 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 25 
+                          Name "0" 
+Value 532672 3.2266e+006 10.41 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 26 
+                          Name "1" 
+Value 532697 3.22664e+006 12.74 
+}
+                        osg::IntValueObject {
+                          UniqueID 27 
+                          Name "0" 
+Value 1 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -187.5 -294 -146.425 23.0979 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"001.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 28 
+              Name "group-002" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 29 
+                  Name "leafgeode-002" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 30 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 31 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 32 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 33 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"002.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 34 
+              Name "group-003" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 35 
+                  Name "leafgeode-003" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 36 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 37 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 38 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 39 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"003.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 40 
+              Name "group-004" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 41 
+                  Name "leafgeode-004" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 42 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 43 
+                          Name "0" 
+Value 532450 3.22653e+006 111.25 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 44 
+                          Name "1" 
+Value 532603 3.22668e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 45 
+                          Name "0" 
+Value 34 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -345.875 -308.5 -23.165 110.836 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"004.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 46 
+              Name "group-005" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 47 
+                  Name "leafgeode-005" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 48 
+                      UDC_UserObjects 9 {
+osg::Vec3dValueObject {
+                          UniqueID 49 
+                          Name "0" 
+Value 532621 3.22646e+006 120.88 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 50 
+                          Name "1" 
+Value 532788 3.22668e+006 158.36 
+}
+                        osg::IntValueObject {
+                          UniqueID 51 
+                          Name "0" 
+Value 695 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 52 
+                          Name "3" 
+Value 532742 3.22658e+006 144.03 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 53 
+                          Name "4" 
+Value 532788 3.22668e+006 158.36 
+}
+                        osg::IntValueObject {
+                          UniqueID 54 
+                          Name "1" 
+Value 1832 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 55 
+                          Name "6" 
+Value 532621 3.22656e+006 120.88 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 56 
+                          Name "7" 
+Value 532741 3.22668e+006 151.61 
+}
+                        osg::IntValueObject {
+                          UniqueID 57 
+                          Name "2" 
+Value 901 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -167.688 -341.75 -18.38 139.405 
+RangeList 3 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 3 {
+"005.lasdb" 
+"0056.lasdb" 
+"0057.lasdb" 
+}
+PriorityList 3 {
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 58 
+              Name "group-006" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 59 
+                  Name "leafgeode-006" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 60 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 61 
+                          Name "0" 
+Value 532610 3.22668e+006 110.09 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 62 
+                          Name "1" 
+Value 532873 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 63 
+                          Name "0" 
+Value 1190275 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 64 
+                          Name "3" 
+Value 532610 3.22668e+006 142.39 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 65 
+                          Name "4" 
+Value 532742 3.2268e+006 158.33 
+}
+                        osg::IntValueObject {
+                          UniqueID 66 
+                          Name "1" 
+Value 24411 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 67 
+                          Name "6" 
+Value 532742 3.22668e+006 139.54 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 68 
+                          Name "7" 
+Value 532873 3.2268e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 69 
+                          Name "2" 
+Value 113030 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 70 
+                          Name "9" 
+Value 532742 3.2268e+006 110.09 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 71 
+                          Name "10" 
+Value 532873 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 72 
+                          Name "3" 
+Value 2858612 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 73 
+                          Name "12" 
+Value 532610 3.2268e+006 127.59 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 74 
+                          Name "13" 
+Value 532742 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 75 
+                          Name "4" 
+Value 1765028 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -130.5 -115.75 -23.745 176.939 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"006.lasdb" 
+"0064.lasdb" 
+"0065.lasdb" 
+"0066.lasdb" 
+"0067.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 76 
+              Name "group-007" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 77 
+                  Name "leafgeode-007" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 78 
+                      UDC_UserObjects 12 {
+osg::Vec3dValueObject {
+                          UniqueID 79 
+                          Name "0" 
+Value 532407 3.22668e+006 85.32 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 80 
+                          Name "1" 
+Value 532610 3.22689e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 81 
+                          Name "0" 
+Value 3943 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 82 
+                          Name "3" 
+Value 532567 3.22671e+006 147.05 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 83 
+                          Name "4" 
+Value 532610 3.2268e+006 152.57 
+}
+                        osg::IntValueObject {
+                          UniqueID 84 
+                          Name "1" 
+Value 2189 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 85 
+                          Name "6" 
+Value 532565 3.2268e+006 140.82 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 86 
+                          Name "7" 
+Value 532610 3.22689e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 87 
+                          Name "2" 
+Value 13151 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 88 
+                          Name "9" 
+Value 532407 3.22687e+006 142.76 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 89 
+                          Name "10" 
+Value 532452 3.22689e+006 157.98 
+}
+                        osg::IntValueObject {
+                          UniqueID 90 
+                          Name "3" 
+Value 265 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -363.375 -125 -36.13 151.66 
+RangeList 4 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 4 {
+"007.lasdb" 
+"0075.lasdb" 
+"0076.lasdb" 
+"0077.lasdb" 
+}
+PriorityList 4 {
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 91 
+          Name "group-01" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 92 
+              Name "lodgeode-01" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 93 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 94 
+                      Name "0" 
+Value 532873 3.22647e+006 137.37 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 95 
+                      Name "1" 
+Value 533399 3.22691e+006 158.42 
+}
+                    osg::IntValueObject {
+                      UniqueID 96 
+                      Name "0" 
+Value 247620 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 263.75 -222.75 -10.105 344.81 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"01.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 97 
+              Name "group-010" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 98 
+                  Name "leafgeode-010" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 99 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 100 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 101 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 102 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"010.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 103 
+              Name "group-011" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 104 
+                  Name "leafgeode-011" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 105 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 106 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 107 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 108 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"011.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 109 
+              Name "group-012" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 110 
+                  Name "leafgeode-012" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 111 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 112 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 113 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 114 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"012.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 115 
+              Name "group-013" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 116 
+                  Name "leafgeode-013" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 117 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 118 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 119 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 120 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"013.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 121 
+              Name "group-014" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 122 
+                  Name "leafgeode-014" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 123 
+                      UDC_UserObjects 12 {
+osg::Vec3dValueObject {
+                          UniqueID 124 
+                          Name "0" 
+Value 532925 3.22647e+006 146.29 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 125 
+                          Name "1" 
+Value 533056 3.22666e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 126 
+                          Name "0" 
+Value 274 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 127 
+                          Name "3" 
+Value 532930 3.22647e+006 151.28 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 128 
+                          Name "4" 
+Value 533002 3.22654e+006 158.41 
+}
+                        osg::IntValueObject {
+                          UniqueID 129 
+                          Name "1" 
+Value 528 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 130 
+                          Name "6" 
+Value 533033 3.22658e+006 146.34 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 131 
+                          Name "7" 
+Value 533056 3.22664e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 132 
+                          Name "2" 
+Value 286 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 133 
+                          Name "9" 
+Value 532925 3.22657e+006 146.29 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 134 
+                          Name "10" 
+Value 532991 3.22666e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 135 
+                          Name "3" 
+Value 273 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 118.313 -346.5 -5.645 119.001 
+RangeList 4 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 4 {
+"014.lasdb" 
+"0144.lasdb" 
+"0146.lasdb" 
+"0147.lasdb" 
+}
+PriorityList 4 {
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 136 
+              Name "group-015" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 137 
+                  Name "leafgeode-015" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 138 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 139 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 140 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 141 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"015.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 142 
+              Name "group-016" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 143 
+                  Name "leafgeode-016" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 144 
+                      UDC_UserObjects 9 {
+osg::Vec3dValueObject {
+                          UniqueID 145 
+                          Name "0" 
+Value 533136 3.22674e+006 143.45 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 146 
+                          Name "1" 
+Value 533399 3.22691e+006 158.41 
+}
+                        osg::IntValueObject {
+                          UniqueID 147 
+                          Name "0" 
+Value 373 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 148 
+                          Name "3" 
+Value 533136 3.22674e+006 148.1 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 149 
+                          Name "4" 
+Value 533262 3.22679e+006 158.41 
+}
+                        osg::IntValueObject {
+                          UniqueID 150 
+                          Name "1" 
+Value 659 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 151 
+                          Name "6" 
+Value 533136 3.2268e+006 143.45 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 152 
+                          Name "7" 
+Value 533262 3.22691e+006 158.37 
+}
+                        osg::IntValueObject {
+                          UniqueID 153 
+                          Name "2" 
+Value 771 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 395.125 -85.75 -7.07001 156.248 
+RangeList 3 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 3 {
+"016.lasdb" 
+"0164.lasdb" 
+"0167.lasdb" 
+}
+PriorityList 3 {
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 154 
+              Name "group-017" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 155 
+                  Name "leafgeode-017" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 156 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 157 
+                          Name "0" 
+Value 532873 3.22669e+006 137.37 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 158 
+                          Name "1" 
+Value 533136 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 159 
+                          Name "0" 
+Value 989825 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 160 
+                          Name "3" 
+Value 532873 3.22669e+006 141.01 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 161 
+                          Name "4" 
+Value 533004 3.2268e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 162 
+                          Name "1" 
+Value 118275 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 163 
+                          Name "6" 
+Value 533004 3.22669e+006 137.37 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 164 
+                          Name "7" 
+Value 533136 3.2268e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 165 
+                          Name "2" 
+Value 168554 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 166 
+                          Name "9" 
+Value 533004 3.2268e+006 141.21 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 167 
+                          Name "10" 
+Value 533136 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 168 
+                          Name "3" 
+Value 933795 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 169 
+                          Name "12" 
+Value 532873 3.2268e+006 141.48 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 170 
+                          Name "13" 
+Value 533004 3.22691e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 171 
+                          Name "4" 
+Value 2738668 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 132.313 -112 -10.105 173.038 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"017.lasdb" 
+"0174.lasdb" 
+"0175.lasdb" 
+"0176.lasdb" 
+"0177.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 172 
+          Name "group-02" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 173 
+              Name "lodgeode-02" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 174 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 175 
+                      Name "0" 
+Value 532873 3.22691e+006 34.25 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 176 
+                      Name "1" 
+Value 533370 3.22738e+006 158.42 
+}
+                    osg::IntValueObject {
+                      UniqueID 177 
+                      Name "0" 
+Value 1902 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 249.625 232.25 -61.665 345.7 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"02.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 178 
+              Name "group-020" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 179 
+                  Name "leafgeode-020" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 180 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 181 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 182 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 183 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"020.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 184 
+              Name "group-021" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 185 
+                  Name "leafgeode-021" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 186 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 187 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 188 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 189 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"021.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 190 
+              Name "group-022" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 191 
+                  Name "leafgeode-022" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 192 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 193 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 194 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 195 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"022.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 196 
+              Name "group-023" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 197 
+                  Name "leafgeode-023" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 198 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 199 
+                          Name "0" 
+Value 532947 3.2272e+006 34.25 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 200 
+                          Name "1" 
+Value 532947 3.2272e+006 34.25 
+}
+                        osg::IntValueObject {
+                          UniqueID 201 
+                          Name "0" 
+Value 1 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 75.4375 293 -123.75 0 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"023.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 202 
+              Name "group-024" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 203 
+                  Name "leafgeode-024" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 204 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 205 
+                          Name "0" 
+Value 532873 3.22691e+006 105.14 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 206 
+                          Name "1" 
+Value 533136 3.22714e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 207 
+                          Name "0" 
+Value 6329 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 208 
+                          Name "3" 
+Value 532888 3.22691e+006 105.14 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 209 
+                          Name "4" 
+Value 532996 3.22702e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 210 
+                          Name "1" 
+Value 1806 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 211 
+                          Name "6" 
+Value 533004 3.22691e+006 139.51 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 212 
+                          Name "7" 
+Value 533136 3.22703e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 213 
+                          Name "2" 
+Value 9389 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 214 
+                          Name "9" 
+Value 533004 3.22703e+006 140.67 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 215 
+                          Name "10" 
+Value 533136 3.22714e+006 158.38 
+}
+                        osg::IntValueObject {
+                          UniqueID 216 
+                          Name "3" 
+Value 4613 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 217 
+                          Name "12" 
+Value 532873 3.22703e+006 138.62 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 218 
+                          Name "13" 
+Value 533004 3.22714e+006 158.42 
+}
+                        osg::IntValueObject {
+                          UniqueID 219 
+                          Name "4" 
+Value 9489 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 132.25 116.25 -26.22 177.248 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"024.lasdb" 
+"0244.lasdb" 
+"0245.lasdb" 
+"0246.lasdb" 
+"0247.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 220 
+              Name "group-025" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 221 
+                  Name "leafgeode-025" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 222 
+                      UDC_UserObjects 9 {
+osg::Vec3dValueObject {
+                          UniqueID 223 
+                          Name "0" 
+Value 533136 3.22691e+006 143.23 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 224 
+                          Name "1" 
+Value 533370 3.2271e+006 158.41 
+}
+                        osg::IntValueObject {
+                          UniqueID 225 
+                          Name "0" 
+Value 483 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 226 
+                          Name "3" 
+Value 533136 3.22691e+006 143.23 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 227 
+                          Name "4" 
+Value 533267 3.22703e+006 158.41 
+}
+                        osg::IntValueObject {
+                          UniqueID 228 
+                          Name "1" 
+Value 1488 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 229 
+                          Name "6" 
+Value 533136 3.22703e+006 144.05 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 230 
+                          Name "7" 
+Value 533267 3.2271e+006 158.27 
+}
+                        osg::IntValueObject {
+                          UniqueID 231 
+                          Name "2" 
+Value 418 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 381 96.25 -7.17999 150.158 
+RangeList 3 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 3 {
+"025.lasdb" 
+"0254.lasdb" 
+"0257.lasdb" 
+}
+PriorityList 3 {
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 232 
+              Name "group-026" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 233 
+                  Name "leafgeode-026" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 234 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 235 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 236 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 237 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"026.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 238 
+              Name "group-027" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 239 
+                  Name "leafgeode-027" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 240 
+                      UDC_UserObjects 12 {
+osg::Vec3dValueObject {
+                          UniqueID 241 
+                          Name "0" 
+Value 532873 3.22714e+006 80.34 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 242 
+                          Name "1" 
+Value 533078 3.22738e+006 158.39 
+}
+                        osg::IntValueObject {
+                          UniqueID 243 
+                          Name "0" 
+Value 775 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 244 
+                          Name "3" 
+Value 532876 3.22714e+006 114.34 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 245 
+                          Name "4" 
+Value 533004 3.22726e+006 158.39 
+}
+                        osg::IntValueObject {
+                          UniqueID 246 
+                          Name "1" 
+Value 2024 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 247 
+                          Name "6" 
+Value 533004 3.22714e+006 142.91 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 248 
+                          Name "7" 
+Value 533078 3.2272e+006 145.76 
+}
+                        osg::IntValueObject {
+                          UniqueID 249 
+                          Name "2" 
+Value 466 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 250 
+                          Name "9" 
+Value 532873 3.22726e+006 138.56 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 251 
+                          Name "10" 
+Value 532933 3.22738e+006 153.02 
+}
+                        osg::IntValueObject {
+                          UniqueID 252 
+                          Name "3" 
+Value 595 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 103.75 348.25 -38.635 159.681 
+RangeList 4 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 4 {
+"027.lasdb" 
+"0274.lasdb" 
+"0275.lasdb" 
+"0277.lasdb" 
+}
+PriorityList 4 {
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 253 
+          Name "group-03" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 254 
+              Name "lodgeode-03" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 255 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 256 
+                      Name "0" 
+Value 532347 3.22691e+006 -62.16 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 257 
+                      Name "1" 
+Value 532873 3.22737e+006 158.4 
+}
+                    osg::IntValueObject {
+                      UniqueID 258 
+                      Name "0" 
+Value 189012 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -261.875 232 -109.88 367.421 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"03.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 259 
+              Name "group-030" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 260 
+                  Name "leafgeode-030" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 261 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 262 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 263 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 264 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"030.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 265 
+              Name "group-031" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 266 
+                  Name "leafgeode-031" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 267 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 268 
+                          Name "0" 
+Value 532794 3.227e+006 -62.16 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 269 
+                          Name "1" 
+Value 532854 3.22713e+006 44.85 
+}
+                        osg::IntValueObject {
+                          UniqueID 270 
+                          Name "0" 
+Value 7 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -48 155 -166.655 91.9632 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"031.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 271 
+              Name "group-032" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 272 
+                  Name "leafgeode-032" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 273 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 274 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 275 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 276 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"032.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 277 
+              Name "group-033" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 278 
+                  Name "leafgeode-033" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 279 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 280 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 281 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 282 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"033.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 283 
+              Name "group-034" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 284 
+                  Name "leafgeode-034" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 285 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 286 
+                          Name "0" 
+Value 532347 3.22691e+006 134.15 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 287 
+                          Name "1" 
+Value 532610 3.22714e+006 158.35 
+}
+                        osg::IntValueObject {
+                          UniqueID 288 
+                          Name "0" 
+Value 113808 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 289 
+                          Name "3" 
+Value 532366 3.22691e+006 137.32 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 290 
+                          Name "4" 
+Value 532479 3.22703e+006 158.35 
+}
+                        osg::IntValueObject {
+                          UniqueID 291 
+                          Name "1" 
+Value 9196 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 292 
+                          Name "6" 
+Value 532479 3.22691e+006 136.81 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 293 
+                          Name "7" 
+Value 532610 3.22703e+006 153.31 
+}
+                        osg::IntValueObject {
+                          UniqueID 294 
+                          Name "2" 
+Value 45538 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 295 
+                          Name "9" 
+Value 532479 3.22703e+006 134.15 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 296 
+                          Name "10" 
+Value 532610 3.22714e+006 157.17 
+}
+                        osg::IntValueObject {
+                          UniqueID 297 
+                          Name "3" 
+Value 390802 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 298 
+                          Name "12" 
+Value 532347 3.22703e+006 136.12 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 299 
+                          Name "13" 
+Value 532479 3.22712e+006 145.35 
+}
+                        osg::IntValueObject {
+                          UniqueID 300 
+                          Name "4" 
+Value 9692 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -393.25 117 -11.75 175.122 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"034.lasdb" 
+"0344.lasdb" 
+"0345.lasdb" 
+"0346.lasdb" 
+"0347.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 301 
+              Name "group-035" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 302 
+                  Name "leafgeode-035" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 303 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 304 
+                          Name "0" 
+Value 532610 3.22691e+006 62.4 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 305 
+                          Name "1" 
+Value 532873 3.22714e+006 158.4 
+}
+                        osg::IntValueObject {
+                          UniqueID 306 
+                          Name "0" 
+Value 504177 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 307 
+                          Name "3" 
+Value 532610 3.22691e+006 130.31 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 308 
+                          Name "4" 
+Value 532742 3.22703e+006 158.4 
+}
+                        osg::IntValueObject {
+                          UniqueID 309 
+                          Name "1" 
+Value 1060480 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 310 
+                          Name "6" 
+Value 532742 3.22691e+006 104.17 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 311 
+                          Name "7" 
+Value 532870 3.22703e+006 148.04 
+}
+                        osg::IntValueObject {
+                          UniqueID 312 
+                          Name "2" 
+Value 89874 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 313 
+                          Name "9" 
+Value 532742 3.22703e+006 138.34 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 314 
+                          Name "10" 
+Value 532873 3.22714e+006 152.48 
+}
+                        osg::IntValueObject {
+                          UniqueID 315 
+                          Name "3" 
+Value 18716 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 316 
+                          Name "12" 
+Value 532610 3.22703e+006 127.21 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 317 
+                          Name "13" 
+Value 532741 3.22714e+006 158.37 
+}
+                        osg::IntValueObject {
+                          UniqueID 318 
+                          Name "4" 
+Value 847601 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -130.5 116.25 -47.6 181.735 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"035.lasdb" 
+"0354.lasdb" 
+"0355.lasdb" 
+"0356.lasdb" 
+"0357.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 319 
+              Name "group-036" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 320 
+                  Name "leafgeode-036" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 321 
+                      UDC_UserObjects 12 {
+osg::Vec3dValueObject {
+                          UniqueID 322 
+                          Name "0" 
+Value 532610 3.22714e+006 98.52 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 323 
+                          Name "1" 
+Value 532873 3.22737e+006 155.25 
+}
+                        osg::IntValueObject {
+                          UniqueID 324 
+                          Name "0" 
+Value 8596 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 325 
+                          Name "3" 
+Value 532610 3.22714e+006 109.9 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 326 
+                          Name "4" 
+Value 532741 3.22726e+006 155.25 
+}
+                        osg::IntValueObject {
+                          UniqueID 327 
+                          Name "1" 
+Value 28915 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 328 
+                          Name "6" 
+Value 532742 3.22714e+006 107.66 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 329 
+                          Name "7" 
+Value 532871 3.22726e+006 144.77 
+}
+                        osg::IntValueObject {
+                          UniqueID 330 
+                          Name "2" 
+Value 3608 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 331 
+                          Name "9" 
+Value 532742 3.22726e+006 137.39 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 332 
+                          Name "10" 
+Value 532873 3.22737e+006 153.25 
+}
+                        osg::IntValueObject {
+                          UniqueID 333 
+                          Name "3" 
+Value 1677 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -130.5 348 -31.115 177.457 
+RangeList 4 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 4 {
+"036.lasdb" 
+"0364.lasdb" 
+"0365.lasdb" 
+"0366.lasdb" 
+}
+PriorityList 4 {
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 334 
+              Name "group-037" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 335 
+                  Name "leafgeode-037" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 336 
+                      UDC_UserObjects 6 {
+osg::Vec3dValueObject {
+                          UniqueID 337 
+                          Name "0" 
+Value 532512 3.22714e+006 134 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 338 
+                          Name "1" 
+Value 532610 3.22721e+006 156.39 
+}
+                        osg::IntValueObject {
+                          UniqueID 339 
+                          Name "0" 
+Value 129444 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 340 
+                          Name "3" 
+Value 532512 3.22714e+006 134 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 341 
+                          Name "4" 
+Value 532610 3.22721e+006 156.39 
+}
+                        osg::IntValueObject {
+                          UniqueID 342 
+                          Name "1" 
+Value 517776 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -310.75 266 -12.805 60.4413 
+RangeList 2 {
+183.746 551.237 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 2 {
+"037.lasdb" 
+"0375.lasdb" 
+}
+PriorityList 2 {
+0 1 
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 343 
+          Name "group-04" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 344 
+              Name "lodgeode-04" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 345 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 346 
+                      Name "0" 
+Value 532446 3.22646e+006 158.43 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 347 
+                      Name "1" 
+Value 532873 3.22688e+006 183.9 
+}
+                    osg::IntValueObject {
+                      UniqueID 348 
+                      Name "0" 
+Value 8852 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -212.75 -241 13.165 300.29 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"04.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 349 
+              Name "group-040" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 350 
+                  Name "leafgeode-040" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 351 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 352 
+                          Name "0" 
+Value 532446 3.22658e+006 158.71 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 353 
+                          Name "1" 
+Value 532486 3.22668e+006 162.83 
+}
+                        osg::IntValueObject {
+                          UniqueID 354 
+                          Name "0" 
+Value 20 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -406.188 -281.5 2.77 53.6372 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"040.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 355 
+              Name "group-041" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 356 
+                  Name "leafgeode-041" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 357 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 358 
+                          Name "0" 
+Value 532749 3.22646e+006 158.45 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 359 
+                          Name "1" 
+Value 532795 3.22667e+006 161.89 
+}
+                        osg::IntValueObject {
+                          UniqueID 360 
+                          Name "0" 
+Value 8 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -99.75 -347.5 2.17 106.595 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"041.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 361 
+              Name "group-042" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 362 
+                  Name "leafgeode-042" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 363 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 364 
+                          Name "0" 
+Value 532610 3.22669e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 365 
+                          Name "1" 
+Value 532873 3.22688e+006 183.9 
+}
+                        osg::IntValueObject {
+                          UniqueID 366 
+                          Name "0" 
+Value 34780 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 367 
+                          Name "3" 
+Value 532620 3.22669e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 368 
+                          Name "4" 
+Value 532658 3.2268e+006 177.11 
+}
+                        osg::IntValueObject {
+                          UniqueID 369 
+                          Name "1" 
+Value 1689 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 370 
+                          Name "6" 
+Value 532774 3.22673e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 371 
+                          Name "7" 
+Value 532869 3.2268e+006 162.79 
+}
+                        osg::IntValueObject {
+                          UniqueID 372 
+                          Name "2" 
+Value 9383 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 373 
+                          Name "9" 
+Value 532764 3.2268e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 374 
+                          Name "10" 
+Value 532873 3.22687e+006 183.9 
+}
+                        osg::IntValueObject {
+                          UniqueID 375 
+                          Name "3" 
+Value 20359 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 376 
+                          Name "12" 
+Value 532610 3.2268e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 377 
+                          Name "13" 
+Value 532722 3.22688e+006 175.24 
+}
+                        osg::IntValueObject {
+                          UniqueID 378 
+                          Name "4" 
+Value 107664 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -130.5 -127 13.165 161.105 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"042.lasdb" 
+"0420.lasdb" 
+"0421.lasdb" 
+"0422.lasdb" 
+"0423.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 379 
+              Name "group-043" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 380 
+                  Name "leafgeode-043" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 381 
+                      UDC_UserObjects 6 {
+osg::Vec3dValueObject {
+                          UniqueID 382 
+                          Name "0" 
+Value 532446 3.22668e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 383 
+                          Name "1" 
+Value 532610 3.22688e+006 162.21 
+}
+                        osg::IntValueObject {
+                          UniqueID 384 
+                          Name "0" 
+Value 593 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 385 
+                          Name "3" 
+Value 532551 3.22687e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 386 
+                          Name "4" 
+Value 532610 3.22688e+006 162.21 
+}
+                        osg::IntValueObject {
+                          UniqueID 387 
+                          Name "1" 
+Value 2337 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -344.125 -131 2.32001 129.997 
+RangeList 2 {
+183.746 551.237 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 2 {
+"043.lasdb" 
+"0432.lasdb" 
+}
+PriorityList 2 {
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 388 
+              Name "group-044" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 389 
+                  Name "leafgeode-044" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 390 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 391 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 392 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 393 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"044.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 394 
+              Name "group-045" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 395 
+                  Name "leafgeode-045" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 396 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 397 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 398 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 399 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"045.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 400 
+              Name "group-046" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 401 
+                  Name "leafgeode-046" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 402 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 403 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 404 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 405 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"046.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 406 
+              Name "group-047" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 407 
+                  Name "leafgeode-047" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 408 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 409 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 410 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 411 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"047.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 412 
+          Name "group-05" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 413 
+              Name "lodgeode-05" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 414 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 415 
+                      Name "0" 
+Value 532873 3.22645e+006 158.43 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 416 
+                      Name "1" 
+Value 533375 3.22689e+006 194.73 
+}
+                    osg::IntValueObject {
+                      UniqueID 417 
+                      Name "0" 
+Value 3606 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 252 -242.75 18.58 334.943 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"05.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 418 
+              Name "group-050" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 419 
+                  Name "leafgeode-050" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 420 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 421 
+                          Name "0" 
+Value 532922 3.22645e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 422 
+                          Name "1" 
+Value 533068 3.22663e+006 176.48 
+}
+                        osg::IntValueObject {
+                          UniqueID 423 
+                          Name "0" 
+Value 439 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 424 
+                          Name "3" 
+Value 532929 3.22645e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 425 
+                          Name "4" 
+Value 533004 3.22654e+006 165.98 
+}
+                        osg::IntValueObject {
+                          UniqueID 426 
+                          Name "1" 
+Value 751 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 427 
+                          Name "6" 
+Value 533004 3.22652e+006 159.02 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 428 
+                          Name "7" 
+Value 533068 3.22656e+006 176.48 
+}
+                        osg::IntValueObject {
+                          UniqueID 429 
+                          Name "2" 
+Value 260 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 430 
+                          Name "9" 
+Value 533040 3.22656e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 431 
+                          Name "10" 
+Value 533068 3.22663e+006 175.62 
+}
+                        osg::IntValueObject {
+                          UniqueID 432 
+                          Name "3" 
+Value 413 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 433 
+                          Name "12" 
+Value 532922 3.22657e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 434 
+                          Name "13" 
+Value 532986 3.22659e+006 165.97 
+}
+                        osg::IntValueObject {
+                          UniqueID 435 
+                          Name "4" 
+Value 322 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 123 -374.75 9.45499 115.6 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"050.lasdb" 
+"0500.lasdb" 
+"0501.lasdb" 
+"0502.lasdb" 
+"0503.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 436 
+              Name "group-051" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 437 
+                  Name "leafgeode-051" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 438 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 439 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 440 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 441 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"051.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 442 
+              Name "group-052" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 443 
+                  Name "leafgeode-052" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 444 
+                      UDC_UserObjects 6 {
+osg::Vec3dValueObject {
+                          UniqueID 445 
+                          Name "0" 
+Value 533141 3.22672e+006 158.48 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 446 
+                          Name "1" 
+Value 533375 3.22683e+006 179.63 
+}
+                        osg::IntValueObject {
+                          UniqueID 447 
+                          Name "0" 
+Value 88 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 448 
+                          Name "3" 
+Value 533189 3.22673e+006 158.48 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 449 
+                          Name "4" 
+Value 533262 3.22679e+006 173.59 
+}
+                        osg::IntValueObject {
+                          UniqueID 450 
+                          Name "1" 
+Value 238 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 386.188 -136 11.055 128.453 
+RangeList 2 {
+183.746 551.237 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 2 {
+"052.lasdb" 
+"0520.lasdb" 
+}
+PriorityList 2 {
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 451 
+              Name "group-053" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 452 
+                  Name "leafgeode-053" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 453 
+                      UDC_UserObjects 15 {
+osg::Vec3dValueObject {
+                          UniqueID 454 
+                          Name "0" 
+Value 532873 3.22675e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 455 
+                          Name "1" 
+Value 533102 3.22689e+006 194.73 
+}
+                        osg::IntValueObject {
+                          UniqueID 456 
+                          Name "0" 
+Value 13891 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 457 
+                          Name "3" 
+Value 532875 3.22675e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 458 
+                          Name "4" 
+Value 533004 3.2268e+006 167.33 
+}
+                        osg::IntValueObject {
+                          UniqueID 459 
+                          Name "1" 
+Value 14578 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 460 
+                          Name "6" 
+Value 533004 3.22675e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 461 
+                          Name "7" 
+Value 533098 3.2268e+006 178.63 
+}
+                        osg::IntValueObject {
+                          UniqueID 462 
+                          Name "2" 
+Value 25881 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 463 
+                          Name "9" 
+Value 533006 3.2268e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 464 
+                          Name "10" 
+Value 533102 3.22689e+006 194.73 
+}
+                        osg::IntValueObject {
+                          UniqueID 465 
+                          Name "3" 
+Value 7856 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 466 
+                          Name "12" 
+Value 532873 3.2268e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 467 
+                          Name "13" 
+Value 533001 3.22685e+006 180.98 
+}
+                        osg::IntValueObject {
+                          UniqueID 468 
+                          Name "4" 
+Value 7238 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 115.313 -92 18.58 135.448 
+RangeList 5 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 5 {
+"053.lasdb" 
+"0530.lasdb" 
+"0531.lasdb" 
+"0532.lasdb" 
+"0533.lasdb" 
+}
+PriorityList 5 {
+0 1 
+0 1 
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 469 
+              Name "group-054" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 470 
+                  Name "leafgeode-054" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 471 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 472 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 473 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 474 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"054.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 475 
+              Name "group-055" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 476 
+                  Name "leafgeode-055" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 477 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 478 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 479 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 480 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"055.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 481 
+              Name "group-056" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 482 
+                  Name "leafgeode-056" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 483 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 484 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 485 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 486 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"056.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 487 
+              Name "group-057" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 488 
+                  Name "leafgeode-057" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 489 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 490 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 491 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 492 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"057.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 493 
+          Name "group-06" 
+Children 9 {
+osg::PagedLOD {
+              UniqueID 494 
+              Name "lodgeode-06" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 495 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 496 
+                      Name "0" 
+Value 532873 3.22694e+006 158.43 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 497 
+                      Name "1" 
+Value 533328 3.22725e+006 178.18 
+}
+                    osg::IntValueObject {
+                      UniqueID 498 
+                      Name "0" 
+Value 491 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 228.438 185.75 10.305 277.16 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"06.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+            osg::Group {
+              UniqueID 499 
+              Name "group-060" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 500 
+                  Name "leafgeode-060" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 501 
+                      UDC_UserObjects 9 {
+osg::Vec3dValueObject {
+                          UniqueID 502 
+                          Name "0" 
+Value 532873 3.22694e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 503 
+                          Name "1" 
+Value 533136 3.2271e+006 178.18 
+}
+                        osg::IntValueObject {
+                          UniqueID 504 
+                          Name "0" 
+Value 1926 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 505 
+                          Name "3" 
+Value 532966 3.227e+006 158.48 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 506 
+                          Name "4" 
+Value 532998 3.22703e+006 165.61 
+}
+                        osg::IntValueObject {
+                          UniqueID 507 
+                          Name "1" 
+Value 624 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 508 
+                          Name "6" 
+Value 532873 3.22703e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 509 
+                          Name "7" 
+Value 532994 3.22707e+006 178.18 
+}
+                        osg::IntValueObject {
+                          UniqueID 510 
+                          Name "2" 
+Value 6950 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 132.313 107.5 10.305 154.068 
+RangeList 3 {
+183.746 551.237 
+0 413.428 
+0 413.428 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 3 {
+"060.lasdb" 
+"0600.lasdb" 
+"0603.lasdb" 
+}
+PriorityList 3 {
+0 1 
+0 1 
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 511 
+              Name "group-061" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 512 
+                  Name "leafgeode-061" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 513 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 514 
+                          Name "0" 
+Value 533136 3.22697e+006 158.43 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 515 
+                          Name "1" 
+Value 533328 3.2271e+006 163.03 
+}
+                        osg::IntValueObject {
+                          UniqueID 516 
+                          Name "0" 
+Value 28 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 359.938 123.25 2.73 117.234 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"061.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 517 
+              Name "group-062" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 518 
+                  Name "leafgeode-062" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 519 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 520 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 521 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 522 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"062.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 523 
+              Name "group-063" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 524 
+                  Name "leafgeode-063" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 525 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 526 
+                          Name "0" 
+Value 532935 3.22725e+006 158.48 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 527 
+                          Name "1" 
+Value 532935 3.22725e+006 158.48 
+}
+                        osg::IntValueObject {
+                          UniqueID 528 
+                          Name "0" 
+Value 1 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter 62.75 343.75 0.479996 0 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"063.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 529 
+              Name "group-064" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 530 
+                  Name "leafgeode-064" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 531 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 532 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 533 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 534 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"064.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 535 
+              Name "group-065" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 536 
+                  Name "leafgeode-065" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 537 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 538 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 539 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 540 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"065.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 541 
+              Name "group-066" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 542 
+                  Name "leafgeode-066" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 543 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 544 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 545 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 546 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"066.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+            osg::Group {
+              UniqueID 547 
+              Name "group-067" 
+Children 1 {
+osg::PagedLOD {
+                  UniqueID 548 
+                  Name "leafgeode-067" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                      UniqueID 549 
+                      UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                          UniqueID 550 
+                          Name "0" 
+Value 1.79769e+308 1.79769e+308 1.79769e+308 
+}
+                        osg::Vec3dValueObject {
+                          UniqueID 551 
+                          Name "1" 
+Value -1.79769e+308 -1.79769e+308 -1.79769e+308 
+}
+                        osg::IntValueObject {
+                          UniqueID 552 
+                          Name "0" 
+}
+                      }
+}
+                  }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -532872 -3.22691e+006 -158 -1 
+RangeList 1 {
+183.746 551.237 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"067.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+              }
+}
+          }
+}
+        osg::Group {
+          UniqueID 553 
+          Name "group-07" 
+Children 1 {
+osg::PagedLOD {
+              UniqueID 554 
+              Name "lodgeode-07" 
+UserDataContainer TRUE {
+osg::DefaultUserDataContainer {
+                  UniqueID 555 
+                  UDC_UserObjects 3 {
+osg::Vec3dValueObject {
+                      UniqueID 556 
+                      Name "0" 
+Value 532452 3.22692e+006 158.43 
+}
+                    osg::Vec3dValueObject {
+                      UniqueID 557 
+                      Name "1" 
+Value 532873 3.22714e+006 379 
+}
+                    osg::IntValueObject {
+                      UniqueID 558 
+                      Name "0" 
+Value 26 
+}
+                  }
+}
+              }
+CenterMode USER_DEFINED_CENTER 
+UserCenter -209.438 117.5 110.715 262.614 
+RangeList 1 {
+367.492 1102.47 
+}
+DatabasePath TRUE "E:\\Apache\\Apache24\\htdocs\\PCDviewer3\\lasresult2\\cache/" 
+RangeDataList 1 {
+"07.lasdb" 
+}
+PriorityList 1 {
+0 1 
+}
+}
+          }
+}
+      }
+}
+  }
+}
